@@ -12,12 +12,12 @@
   url: /blender/
   include: 'N'
 
-- title: 3D-Models
-  url: /3dmodel/
+- title: Model-3D
+  url: /model3d/
   include: 'N'
 
-- title: 3D-publish
-  url: /3dpublish/
+- title: Publish-3D
+  url: /publish3d/
   include: 'Y'
 
 - title: Search
